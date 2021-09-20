@@ -13,3 +13,6 @@ The customer will enter minimum and maximum temperatures and the app will show c
 The customer can focus on multiple cities nearby that have the preferred temperatures to create a specific itinerary. 
 
 ![WeatherPy_travel_map_markers.png](https://github.com/jaousley/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
+
+![WeatherPy_travel_map.png](https://github.com/jaousley/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
