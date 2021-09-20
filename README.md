@@ -7,4 +7,5 @@ The purpose of the world weather analysis project is to build an app that allows
 ## Results
 
 1. Customer will enter minimum and maximum temperatures and the app will show cities matching those preferences.
+![WeatherPy_vacation_map.png](https://github.com/jaousley/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
